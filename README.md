@@ -220,7 +220,8 @@ The gzip command is used to truncate the file size. It is a compressing tool. It
 
 Syntax: gzip <file1> <file2> <file3>..
 
-![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/6657413f-9421-42bd-97e8-174e42912211)
+![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/98e5c79f-1cac-47dc-a881-147d4595c280)
+
 
 
 ### 25)	sort Command
@@ -229,7 +230,8 @@ The sort command is used to sort files in alphabetical order.
 
 Syntax:sort <file name>
 
-![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/b101b996-b187-4beb-bc16-7557f6965855)
+![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/a792f62d-92fa-4bec-bef7-b1674c5ddf37)
+
 
  
 ### 26)	cal Command
@@ -238,7 +240,8 @@ The cal command is used to display the current month's calendar with the current
 
 Syntax: cal
 
-![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/b66de502-394f-4e40-bcd9-421a9375d254)
+![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/68b8ca4e-19e9-40f4-b69b-20c6522517a7)
+
 
 
 ### 27)	clear Command
@@ -247,7 +250,8 @@ Linux clear command is used to clear the terminal screen.
 
 Syntax: clear
 
-![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/fa7c3343-57e2-4b22-967c-3d54890b85a1)
+![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/6924a9f9-da26-4c22-b8e0-accba1eee941)
+
 
 
 
@@ -257,7 +261,8 @@ The mail command is used to send emails from the command line.
 
 Syntax: mail -s "Subject" <recipient address>
 
-![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/b1f0e7b3-b21b-456f-a738-01e4e04b7ef7)
+![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/b368b0c7-e8a7-40c8-b05a-6e70c053f69d)
+
 
 
  
@@ -267,7 +272,8 @@ The df command is used to display the disk space used in the file system. It dis
 
 Syntax: df
 
-![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/7b103721-6a8d-4d90-8651-c2f615e2bb9a)
+![image](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/9af53721-56f4-4387-a9a8-bdbdbdde84bd)
+
 
 
 ### 30)	find Command
