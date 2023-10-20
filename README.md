@@ -1,4 +1,4 @@
-![NVyXwP](https://github.com/priyarajmohan777/Ex-01-Linux-Commands/assets/119475942/e1b851c0-6d94-436a-a910-da648ce27cb1)# Ex-01-Linux-Commands
+# Ex-01-Linux-Commands
 
 
 ## Aim:
